@@ -3,7 +3,7 @@ axion = "1.18.18"
 jreleaser = "1.18.0"
 junit = "5.13.2"
 logback = "1.5.18"
-lombok = "8.13.1"
+lombok = "8.14"
 slf4J = "2.0.17"
 
 [libraries]
